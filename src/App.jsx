@@ -9,7 +9,7 @@ function App() {
       <div>
         
         <Link to="/manufacturers">
-             Fabricantes
+            Fabricantes
           </Link>
 
         <nav style={{ marginBottom: "20px" }}>
