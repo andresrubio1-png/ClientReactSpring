@@ -16,3 +16,6 @@ export const update = (id, data) =>
 export const remove = (id) =>
     axios.delete(`${API_URL}/${id}`);
 
+export const getById = (id) =>
+    axios.get(`${API_URL}/${id}`);
+
